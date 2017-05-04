@@ -1,2 +1,3 @@
-d:/test
-30
+rootDir d:\test1
+fileType jpg
+gross 150
